@@ -1,0 +1,8 @@
+C:\Users\Uday\OneDrive\Desktop\Remap\3B_Practice\Constructor\bin\Debug\Constructor.exe.config
+C:\Users\Uday\OneDrive\Desktop\Remap\3B_Practice\Constructor\bin\Debug\Constructor.exe
+C:\Users\Uday\OneDrive\Desktop\Remap\3B_Practice\Constructor\bin\Debug\Constructor.pdb
+C:\Users\Uday\OneDrive\Desktop\Remap\3B_Practice\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
+C:\Users\Uday\OneDrive\Desktop\Remap\3B_Practice\Constructor\obj\Debug\Constructor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uday\OneDrive\Desktop\Remap\3B_Practice\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Uday\OneDrive\Desktop\Remap\3B_Practice\Constructor\obj\Debug\Constructor.exe
+C:\Users\Uday\OneDrive\Desktop\Remap\3B_Practice\Constructor\obj\Debug\Constructor.pdb

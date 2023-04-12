@@ -1,0 +1,8 @@
+C:\Users\Uday\OneDrive\Desktop\Remap\3B_Practice\Interface\bin\Debug\Interface.exe.config
+C:\Users\Uday\OneDrive\Desktop\Remap\3B_Practice\Interface\bin\Debug\Interface.exe
+C:\Users\Uday\OneDrive\Desktop\Remap\3B_Practice\Interface\bin\Debug\Interface.pdb
+C:\Users\Uday\OneDrive\Desktop\Remap\3B_Practice\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Users\Uday\OneDrive\Desktop\Remap\3B_Practice\Interface\obj\Debug\Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uday\OneDrive\Desktop\Remap\3B_Practice\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Uday\OneDrive\Desktop\Remap\3B_Practice\Interface\obj\Debug\Interface.exe
+C:\Users\Uday\OneDrive\Desktop\Remap\3B_Practice\Interface\obj\Debug\Interface.pdb
